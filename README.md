@@ -32,8 +32,8 @@
   <div class="contact-info">
     <h2>Contacto</h2>
     <p>¿Interesado en unirte a nuestras filas o tienes alguna pregunta? ¡No dudes en contactarnos!</p>
-    <p><i class="fas fa-envelope"></i> Email: <strong>info@clanrelampago.com</strong></p>
-    <p><i class="fab fa-twitter"></i> Twitter: <strong>@ClanRelampago</strong></p>
+    <p><i class="fas fa-envelope"></i> Email: <strong>pxcompanyf@gmail.com</strong></p>
+    <p><i class="fab fa-twitter"></i> Twitter: <strong>@PxCompany</strong></p>
     <!-- Añade más información de contacto si es necesario -->
   </div>
 </div>
