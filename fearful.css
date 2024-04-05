@@ -1,0 +1,15 @@
+body {
+  background-image: url('/Users/danielarocio/Downloads/World-of-Tanks-Blitz-para-la-Nintendo-Switch-640x300.jpg'); /* Reemplaza 'ruta-de-tu-imagen.jpg' con la ruta de tu imagen de fondo */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh; /* Ajusta la altura según sea necesario */
+  margin: 0;
+  padding: 0;
+}
+
+.content {
+  text-align: center;
+  padding: 50px;
+  color: #fff;
+}
