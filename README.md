@@ -30,12 +30,27 @@
   </ul>
   
   <div class="contact-info">
-    <h2>Contacto</h2>
+    <h2>Contacto</h2>          
     <p>¿Interesado en unirte a nuestras filas o tienes alguna pregunta? ¡No dudes en contactarnos!</p>
     <p><i class="fas fa-envelope"></i> Email: <strong>pxcompanyf@gmail.com</strong></p>
     <p><i class="fab fa-twitter"></i> Twitter: <strong>@PxCompany</strong></p>
     <!-- Añade más información de contacto si es necesario -->
   </div>
 </div>
+
+/* If screen size is LESS than 1200px wide */
+@media (max-width: 1200px){ 
+        /* Styles! */
+}
+
+/* If screen size is MORE than 800px wide */
+@media (min-width: 800px){ 
+        /* Styles! */
+}
+
+/* If screen size is BETWEEN 320px and 768px wide AND the orientation is in landscape mode */
+@media (min-width: 320px) and (max-width: 768px) and (orientation: landscape) { 
+        /* Styles! */
+}
 
 </body>
