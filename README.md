@@ -6,11 +6,11 @@
 <body>
 
 <div class="container">
-  <h1>¡Clan Relámpago!</h1>
+  <h1>¡Clan FarFul Weapons!</h1>
   <p>Bienvenido a la página oficial del clan Relámpago en World of Tanks Blitz. Aquí encontrarás toda la información que necesitas sobre nuestro clan.</p>
   
   <h2>Historia del Clan</h2>
-  <p>Nuestro clan fue fundado en [año de fundación] por un grupo de apasionados por la estrategia y la camaradería. Desde entonces, hemos crecido en número y habilidad, estableciéndonos como uno de los clanes más temidos en el campo de batalla.</p>
+  <p>Nuestro clan fue fundado en [2024] por un grupo de apasionados por la estrategia y la camaradería. Desde entonces, hemos crecido en número y habilidad, estableciéndonos como uno de los clanes más temidos en el campo de batalla.</p>
   
   <h2>Miembros Destacados</h2>
   <ul>
