@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"> <!-- Agrega FontAwesome para íconos -->
 <link rel="stylesheet" href="fearful.css">
 </head>
-<body>
+<body bgcolor="#030a1d">
 <div class="container">
   <h1>¡Clan FearFul Weapons!</h1>
   <p>Bienvenido a la página oficial del clan FearFul en World of Tanks Blitz. Aquí encontrarás toda la información que necesitas sobre nuestro clan.</p>
