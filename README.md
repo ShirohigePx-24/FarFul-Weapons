@@ -6,26 +6,26 @@
 <body>
 
 <div class="container">
-  <h1>¡Clan FarFul Weapons!</h1>
-  <p>Bienvenido a la página oficial del clan Relámpago en World of Tanks Blitz. Aquí encontrarás toda la información que necesitas sobre nuestro clan.</p>
+  <h1>¡Clan FearFul Weapons!</h1>
+  <p>Bienvenido a la página oficial del clan FearFul en World of Tanks Blitz. Aquí encontrarás toda la información que necesitas sobre nuestro clan.</p>
   
   <h2>Historia del Clan</h2>
   <p>Nuestro clan fue fundado en [2024] por un grupo de apasionados por la estrategia y la camaradería. Desde entonces, hemos crecido en número y habilidad, estableciéndonos como uno de los clanes más temidos en el campo de batalla.</p>
   
   <h2>Miembros Destacados</h2>
   <ul>
-    <li><strong>ThunderTank99</strong> - Comandante Supremo</li>
-    <li><strong>BlitzMaster21</strong> - Estratega Jefe</li>
-    <li><strong>IronWarrior</strong> - Defensor Imbatible</li>
+    <li><strong>DE4TH_KOKUSHIBO/1057110642</strong> - Comandante Supremo</li>
+    <li><strong>LUISELPRO11_2022/1051118131</strong> - Estratega Jefe</li>
+    <li><strong>Love_Death_Rice/1053924840</strong> - Defensor Imbatible</li>
     <!-- Añade más miembros destacados según sea necesario -->
   </ul>
   
   <h2>Logros</h2>
   <p>Hemos acumulado una serie de logros a lo largo de nuestra historia, entre los que se incluyen:</p>
   <ul>
-    <li>Victoria en el Torneo de Asalto 2023</li>
-    <li>Conquista del Campeonato Mundial Blitz</li>
-    <li>Ascenso al Top 10 de Clanes Mundiales</li>
+    <li>¡Pronto!</li>
+    <li>¡Pronto!</li>
+    <li>!Pronto!</li>
     <!-- Añade más logros según sea necesario -->
   </ul>
   
