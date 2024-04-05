@@ -5,66 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Detalles del Clan - World of Tanks Blitz</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"> <!-- Agrega FontAwesome para íconos -->
-<style>
-  body {
-    margin: 0;
-    padding: 0;
-    font-family: 'Arial', sans-serif;
-    background-color: #f0f0f0;
-    color: #333;
-  }
-
-  .container {
-    width: 80%;
-    max-width: 800px;
-    margin: 50px auto;
-    padding: 20px;
-    border-radius: 10px;
-    background-color: #fff;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-  }
-
-  h1 {
-    text-align: center;
-    color: #333;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-  }
-
-  p {
-    text-align: justify;
-  }
-
-  h2 {
-    color: #ff9900;
-    margin-top: 20px;
-  }
-
-  ul {
-    list-style-type: none;
-    padding-left: 0;
-  }
-
-  li {
-    margin-bottom: 5px;
-  }
-
-  .contact-info {
-    margin-top: 20px;
-  }
-
-  .contact-info i {
-    margin-right: 10px;
-    color: #ff9900;
-  }
-
-  .contact-info strong {
-    color: #333;
-  }
-
-  /* Estilos adicionales según sea necesario */
-</style>
-</head>
 <body>
 
 <div class="container">
